@@ -1,4 +1,10 @@
 #groen {
-    color: rgb(21, 175, 21) ;
+    color: rgb(184, 23, 23) ;
   }
-  
+  body
+  {
+    background-color: rgb(45, 121, 165);: ;
+  }
+  li {
+    color: rgb(26, 221, 124);
+  }
